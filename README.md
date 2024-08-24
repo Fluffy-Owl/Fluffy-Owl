@@ -16,7 +16,7 @@ My name objective for this landing page is to showcase my networking and cyberse
 </div>
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
 - DHCP Spoofing & DHCP Snooping Project
 
 ## Skills
@@ -24,7 +24,7 @@ My name objective for this landing page is to showcase my networking and cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
