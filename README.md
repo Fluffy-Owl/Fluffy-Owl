@@ -6,7 +6,7 @@ My journey in self-learning about cybersecurity has led me to develop a passion 
 
 My name objective for this landing page is to showcase my networking and cybersecurity homellab projects.
 
-## Certifications
+## IT Certifications
 <div>
 <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e"><img src="https://img.shields.io/badge/-CCNA-1E90FF?&style=for-the-badge&logo=Cisco&logoColor=white" />
