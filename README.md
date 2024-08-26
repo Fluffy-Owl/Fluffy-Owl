@@ -4,7 +4,7 @@
 ## Objective
 My journey in self-learning about cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any junior cybersecurity roles.
 
-My name objective for this landing page is to showcase my networking and cybersecurity homellab projects.
+My main objective for this landing page is to showcase my networking and cybersecurity homellab projects.
 
 ## IT Certifications
 <div>
