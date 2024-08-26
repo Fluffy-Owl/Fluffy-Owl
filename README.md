@@ -17,13 +17,15 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
-- DHCP Spoofing & DHCP Snooping Project
+- SOC Automation Project
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Networking: Configuring DHCP services         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
+| Configuring DHCP Snooping         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
