@@ -21,7 +21,6 @@ My main objective for this landing page is to showcase my networking and cyberse
 - Qualys EDR
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -35,7 +34,6 @@ My main objective for this landing page is to showcase my networking and cyberse
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
