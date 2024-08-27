@@ -17,7 +17,8 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
-- SOC Automation Project
+- <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+- Qualys EDR
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
