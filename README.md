@@ -27,12 +27,12 @@ My main objective for this landing page is to showcase my networking and cyberse
 |-----------------------------------------------|----------------------------|
 | Networking: Configuring DHCP services         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | Configuring DHCP Snooping         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Network Traffic Monitoring and Attack Detection | Detection Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Case Management with TheHive                  | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
