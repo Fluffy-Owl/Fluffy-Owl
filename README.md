@@ -17,7 +17,7 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
-- <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>
+- <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project [in progress]</a>
 - Qualys EDR
 
 ## Skills
@@ -26,31 +26,27 @@ My main objective for this landing page is to showcase my networking and cyberse
 |-----------------------------------------------|----------------------------|
 | Networking: Configuring DHCP services         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | Configuring DHCP Snooping         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Case Management with TheHive                  | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project</a>|
+| SIEM Implementation and Log Analysis          | <a>SOC Automation Project</a>|
+| Security Automation with Shuffle SOAR         | <a>SOC Automation Project</a>|
+| Incident Response Planning and Execution      | <a>SOC Automation Project</a>|
+| Case Management with TheHive                  | <a>SOC Automation Project</a>|
+| Scripting and Automation for Threat Mitigation | <a>SOC Automation Project</a>|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
