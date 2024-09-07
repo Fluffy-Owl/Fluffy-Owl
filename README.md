@@ -17,8 +17,7 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
-- <a href="https://github.com/Fluffy-Owl/SOC-Automation-Project/tree/main">SOC Automation Project [in progress]</a>
-- Qualys EDR
+- <a>SOC Automation Project [in progress]</a>
 
 ## Skills
 
@@ -46,7 +45,6 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
