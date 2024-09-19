@@ -11,8 +11,8 @@ My main objective for this landing page is to showcase my networking and cyberse
 - <a href="https://www.certmetrics.com/comptia/public/verification.aspx/">CompTIA's Security+</a> (Verification Code: WKNQ7BZZEFB41PGM)
 - <a href="https://aspen.eccouncil.org/Verify">EC Council's Certified Ethical Hacker ANSI</a> (Certification Number: ECC3748129056)
 - <a href="https://cs50.harvard.edu/certificates/05d981fa-3f62-427f-bdd2-f481c3e2edbb">CS50's Python</a>
-- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PYLN7KKTO8.png">Introduction To Cybersecurity</a>
-- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MADTSI6GJO.png">Pre-Security</a>
+- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PYLN7KKTO8.png">TryHackMe's Introduction To Cybersecurity</a>
+- <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-MADTSI6GJO.png">TryHackMe's Pre-Security</a>
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
