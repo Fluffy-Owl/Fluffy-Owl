@@ -17,6 +17,7 @@ My main objective for this landing page is to showcase my networking and cyberse
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
 - <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>
+- <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>
 
 ## Skills
 
@@ -26,6 +27,9 @@ My main objective for this landing page is to showcase my networking and cyberse
 | Configuring DHCP Snooping         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>|
+| Creating a game using Python         | <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>|
+
+Thank you for reading through my journey :)
 
 
 
