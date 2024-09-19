@@ -2,7 +2,7 @@
 
 
 ## Objective
-My journey in self-learning about cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any junior cybersecurity roles.
+My journey in self-learning about cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any junior IT roles with cybersecurity responsibilities.
 
 My main objective for this landing page is to showcase my networking and cybersecurity homelab projects.
 
@@ -16,7 +16,7 @@ My main objective for this landing page is to showcase my networking and cyberse
 
 ## Projects
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
-- <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>
+- <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh (SIEM hosted in the cloud) and Sysmon (monitoring tool)</a>
 - <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>
 
 ## Skills
