@@ -18,16 +18,19 @@ My main objective for this landing page is to showcase my networking and cyberse
 - <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>
 - <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh (SIEM hosted in the cloud) and Sysmon (monitoring tool)</a>
 - <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>
+- <a href="https://github.com/Fluffy-Owl/Phishing-Lab">Phishing Email Analysis</a>
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Networking: Configuring DHCP services         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
+| Creating a game using Python         | <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>|
+| Configuring DHCP services         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | Configuring DHCP Snooping         | <a href="https://github.com/Fluffy-Owl/DHCP-Spoofing-Snooping-Lab/tree/main">DHCP Spoofing & DHCP Snooping Project</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>|
 | Scripting for Threat Mitigation | <a href="https://github.com/Fluffy-Owl/Advanced-Threat-Detection-with-Wazuh-and-Sysmon">Advanced Threat Detection using Wazuh(SIEM) and Sysmon(monitoring tool)</a>|
-| Creating a game using Python         | <a href="https://github.com/Fluffy-Owl/Python-Game-Project">CS50's Python Project</a>|
+| Detecting and Analysing a Phishing Email         | <a href="https://github.com/Fluffy-Owl/Phishing-Lab">Phishing Email Analysis</a>|
+| Analysing Phishing Artifacts         | <a href="https://github.com/Fluffy-Owl/Phishing-Lab">Phishing Email Analysis</a>|
 
 Thank you for reading through my journey :)
 
