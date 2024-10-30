@@ -2,9 +2,9 @@
 
 
 ## Objective
-My journey in self-learning about cybersecurity has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any junior IT roles with cybersecurity responsibilities.
+My journey in self-learning about cybersecurity has led me to develop a passion for IT, and I am now eager to transition into this field. I am fortunate enough to be currently hired as a network engineer. Moving into the future, I aspire to develop my career into IT security or into the clouds :)
 
-My main objective for this landing page is to showcase my networking and cybersecurity home lab projects.
+My main objective for this landing page is to showcase my networking, cybersecurity and other IT home lab projects.
 
 ## IT Certifications
 - <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/16591cc7f86941f9987670b13902385e">Cisco's CCNA</a>
