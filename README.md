@@ -2,7 +2,7 @@
 
 
 ## Objective
-My journey in self-learning about cybersecurity has led me to develop a passion for IT, and I am now eager to transition into this field. I am fortunate enough to be currently hired as a network engineer. Moving into the future, I aspire to develop my career into IT security or into the clouds :)
+My journey in self-learning about cybersecurity has led me to develop a passion for IT, and I am now eager to transition into this field. I am fortunate enough to be hired as a network engineer currently. Moving into the future, I aspire to develop my career into IT security or into the clouds :)
 
 My main objective for this landing page is to showcase my networking, cybersecurity and other IT home lab projects.
 
